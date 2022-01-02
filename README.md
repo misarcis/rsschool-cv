@@ -1,1 +1,1 @@
-https://GITHUB-MISARCIS.github.io/rsschool-cv/cv
+https://github.com/misarcis/rsschool-cv/cv.md

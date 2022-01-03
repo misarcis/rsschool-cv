@@ -1,2 +1,2 @@
-https://github.com/misarcis/rsschool-cv/blob/gh-pages/cv.md
-https://github.com/misarcis/rsschool-cv/blob/rsschool-cv-html/index.html
+https://misarcis.github.io/rsschool-cv/cv
+https://misarcis.github.io/rsschool-cv/
